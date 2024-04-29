@@ -1,0 +1,115 @@
+1)What is a programming Language?
+Ans:Giving Set of instructions to a OS.
+    Giving Set of instructions to a Browser is known as Markup Language.
+
+2)what is frontend development?
+ans: we can make interactions between client and server using ui technologies like html js and css.
+
+3)what does developer do?
+ans:Developer will communicate with others to make any product.
+
+4)what is diff b/w front-end developer and back-end developer?
+ans:Front end developer involves html,css,js,react...with the help  of these he/she is going to create gui.
+    Back end developer involves with interaction b/w frontend and backend with help of nodejs java,.net,php,python,and take care of server logins.
+
+5)What is SDLC?
+ans:Software Development Lifecycle 
+    -planning -->1 year 100crores
+    -analysis -->CEO
+    -design -->frontend/ui/ux
+    -implementation -->backend(java,node js,.net,php)
+    -testing-->automatic/manual
+    -deployement-->AWS,Google Cloud,Azure,Devops
+    -maintenance-->AWS
+
+6)what is domain and server?
+ans:Domain:It is the part of web url/address
+url-uniform resource locator
+https://10000coders.in
+10000coders -->Domain name
+.co,.in,.gov-->top level domain
+every domian has its own address
+Server-->where we can store our data.Its a virtual machine.we will interact with client.
+
+7)What is GitHub?
+ans: It is used to store/track/deploy/collaborations/remote repository
+
+8)what is deployement?
+ans: Development phase to production phase.Putting our data into cloud servers.
+
+9)what is internet?
+ans:Computers connected to each other 
+  INTERNET-International Networking
+
+10)What is protocol?
+ans: Set of rules to transfer our data.
+
+11)What is Website?
+ans: Collection of web pages which are connected together
+
+12)What is web applications?
+ans:Having interaction with frontend and database,Backend.
+Database Example twitter,Reddit,Linkedin,Naukri.
+
+13)What is webpage?
+ans: Collection of data at a place to display on Browser with set of rules and instructions.
+
+14)HTTP vs HTTPS?
+ans: Hypertext transfer protocol, which is use to exchange the data between client and server,it is not secure,it is not encrypted.
+     Hypertext transfer protocol Secure,use to exchange the data between client and server,the data is encrypted using SSL/TSL
+      Secure Socket Layer/Transport Security Layer
+
+15)what  is HTML?
+ans: Hypertext Markup Language is used to build webpages.Tim berns Lee in 1993
+     in 2008 first 
+
+16)Structure of HTML?
+ans:  Doctype
+             root element --><html></html>-->favicon,titles,meta,link,styles
+                    header
+                        body
+<!DOCTYPE html> ->represents version of html ->Html 5.0
+
+17)What is a Tag and Types?
+ans:Tag is a keyword which is represented with "<" and ">" 
+    Tags give instructions to browser.
+    Syntax: <tag></tag>
+    Types of Tags:
+     Paired tag --><tag></tag>
+     exmp. <html></html> 
+     Unpaired tags--> <tag> or<tag/>
+     exmp. <br>,<hr>
+
+18)What is an attribute and where are this written?
+ans: Giving additional Info of tag and changes the working functionality of tag.
+     <opening tag attribute name="attribute value">
+
+19)What is an Element?
+ams: Elements are combination of tags and attributes and content.
+
+20)Difference b/w src and href?
+ans: src--> getting the data from another source.
+     href-->jumping/moving/shifting/navigate/to other address--> opening files
+
+21)What is an Iframe tag?
+ans: Opening Different Resources is single file.
+
+22)What is Formatting tags?
+ans:Used for styling important data.
+   exmp. <b></b> or <strong></strong>
+
+23)Orderedlist and Unorderedlist?
+What are the attributes we are using in ordered list?
+start,type,reversed
+     Type--> A|I|a|1
+
+24)What is use of table tags?
+ans: To represent the data in rows and columns.
+     attributes for Table-->colspan,rowspan,border
+
+25)Diff b/w Block and Inline elements?
+ans:Block Level Elements will start in a new line and occupies full width.
+     h1-h6
+     <p></p>
+    Inline level elements will occupy only required space.
+
